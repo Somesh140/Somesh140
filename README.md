@@ -5,6 +5,7 @@
 - 📫 How to reach me email:somesh140@gmail.com
 - Linkedin -> https://www.linkedin.com/in/somesh-trivedi-belief/
 
+![alt test](https://github.com/Somesh140/Somesh140/blob/main/data_analyst_professional_badge.png)
 ![alt text](https://github.com/Somesh140/Somesh140/blob/main/DS0010869320247.png)
 
 <!---
