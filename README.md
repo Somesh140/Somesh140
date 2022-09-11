@@ -5,8 +5,7 @@
 - 📫 How to reach me email:somesh140@gmail.com
 - Linkedin -> https://www.linkedin.com/in/somesh-trivedi-belief/
 
-![alt test](https://github.com/Somesh140/Somesh140/blob/main/data_analyst_professional_badge.png)
-![alt text](https://github.com/Somesh140/Somesh140/blob/main/data_scientist_professional_badge.png)
+![alt test](https://github.com/Somesh140/Somesh140/blob/main/data_analyst_professional_badge.png) ![alt text](https://github.com/Somesh140/Somesh140/blob/main/data_scientist_professional_badge.png)
 
 <!---
 Somesh140/Somesh140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
