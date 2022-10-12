@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Data Science and ML projects
 - 📫 How to reach me email:somesh140@gmail.com
 
-#### You can also find me on- [<img align="left" alt="Somesh140 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+#### You can also find me on- 
+[<img align="center" alt="Somesh140 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br>
 
