@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science and ML projects
 - 📫 How to reach me email:somesh140@gmail.com
+
+#### You can also find me on- 
+
+[<img align="left" alt="Somesh140 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 - Linkedin -> https://www.linkedin.com/in/somesh-trivedi-belief/
+[linkedin]: https://www.linkedin.com/in/somesh-trivedi-belief/
 
 ![alt test](https://github.com/Somesh140/Somesh140/blob/main/data_analyst_professional_badge.png) ![alt text](https://github.com/Somesh140/Somesh140/blob/main/data_scientist_professional_badge.png)
 
