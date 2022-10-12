@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Somesh
+- 👋 Hi, I’m Somesh
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science and ML projects
