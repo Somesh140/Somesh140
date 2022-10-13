@@ -22,11 +22,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Somesh140&show_icons=true&locale=en&layout=compact" alt="Somesh140" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Somesh140&show_icons=true&locale=en" alt="Somesh140" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Somesh140&" alt="Somesh140" /></p>
 
-[![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somesh140)](https://github.com/Somesh140/github-readme-stats)
+
 
 ![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somesh140&count_private=true)
 
