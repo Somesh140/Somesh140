@@ -26,6 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Somesh140&" alt="Somesh140" /></p>
 
+[![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somesh140)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Somesh140/Somesh140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
