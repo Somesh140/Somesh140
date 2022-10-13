@@ -21,6 +21,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Somesh140&label=Profile%20views&color=0e75b6&style=flat" alt="Somesh140" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Somesh140&show_icons=true&locale=en&layout=compact" alt="Somesh140" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh140&langs_count=8)](https://github.com/Somesh140/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Somesh140&" alt="Somesh140" /></p>
