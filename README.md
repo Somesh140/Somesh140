@@ -13,6 +13,9 @@
 
 ![alt test](https://github.com/Somesh140/Somesh140/blob/main/data_analyst_professional_badge.png) ![alt text](https://github.com/Somesh140/Somesh140/blob/main/data_scientist_professional_badge.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Somesh140&label=Profile%20views&color=0e75b6&style=flat" alt="Somesh140" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Somesh140" alt="Somesh140" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
