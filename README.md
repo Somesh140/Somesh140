@@ -6,10 +6,12 @@
 
 #### You can also find me on- 
 [<img align="center" alt="Somesh140 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
+<a href="https://stackoverflow.com/users/18154192/somesh-trivedi?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18154192/somesh-trivedi?tab=profile" height="30" width="40" /></a>
 <br>
 
 [linkedin]: https://www.linkedin.com/in/somesh-trivedi-belief/
+
+
 
 ![alt test](https://github.com/Somesh140/Somesh140/blob/main/data_analyst_professional_badge.png) ![alt text](https://github.com/Somesh140/Somesh140/blob/main/data_scientist_professional_badge.png)
 
