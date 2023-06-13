@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science and ML projects
-- 📫 How to reach me email:somesh140@gmail.com
+- 📫 How to reach me : https://topmate.io/somesh_trivedi
 
 #### You can also find me on- 
 [<img align="center" alt="Somesh140 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
