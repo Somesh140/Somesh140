@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Somesh
 - 👀 I’m interested in Data Science, Machine Learning and DL
-- 🌱 I’m currently learning GEN-AI
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on Data Science and ML projects
 - 📫 How to reach me: https://topmate.io/somesh_trivedi
 
