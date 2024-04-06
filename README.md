@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on Data Science and ML projects
+- 🏋️‍♂️ I also train students, young professionals and data enthusiasts 
 - 📫 How to reach me: https://topmate.io/somesh_trivedi
 
 #### You can also find me on- 
