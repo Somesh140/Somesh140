@@ -15,7 +15,7 @@
 
 
 ![alt test](https://github.com/Somesh140/Somesh140/blob/main/data_analyst_professional_badge.png) ![alt text](https://github.com/Somesh140/Somesh140/blob/main/data_scientist_professional_badge.png)
-<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/769072f21cefa6ebf1ffda1b6f0b785947647a2d15c3c27e758e5fd8a93f0fc3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" alt="gif">
+<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Somesh140&label=Profile%20views&color=0e75b6&style=flat" alt="Somesh140" /> </p>
 
 ## 🏆 GitHub Trophies
